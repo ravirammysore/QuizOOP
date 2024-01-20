@@ -1,0 +1,17 @@
+[   
+    {
+        "Text": "Which desert is the largest in the world?",
+        "Answer": "Sahara",
+        "Points": 10
+    },
+    {
+        "Text": "What river is known as the longest river in the world?",
+        "Answer": "Nile",
+        "Points": 10
+    },
+    {
+        "Text": "Which country has the most natural lakes?",
+        "Answer": "Canada",
+        "Points": 5
+    }
+]
