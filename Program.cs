@@ -18,4 +18,4 @@ questions = QuestionsParser.ReadQuestionsFromFile("geo.json");
 var geoQuiz = new Quiz(questions);
 geoQuiz.Start();
 
-Console.WriteLine("---------------------------------------");
+Console.WriteLine("---------------- Bye! --------------------");
